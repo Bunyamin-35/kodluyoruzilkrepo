@@ -7,7 +7,7 @@
 ## Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
 
 ```bash
-
+https://github.com/Bunyamin-35/kodluyoruzilkrepo.git
 ```
 
 # Usage
